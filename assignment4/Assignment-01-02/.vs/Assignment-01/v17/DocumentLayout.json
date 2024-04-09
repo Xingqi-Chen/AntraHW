@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\parseurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\parseurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5408D849-1695-4C3E-9139-D1092F01C16E}|02UnderstandingTypes\\02UnderstandingTypes.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\02understandingtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5408D849-1695-4C3E-9139-D1092F01C16E}|02UnderstandingTypes\\02UnderstandingTypes.csproj|solutionrelative:02understandingtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\02.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\02.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49681CBD-289D-4C65-A45B-95BD65A8CF05}|Assignment-01\\Assignment-01.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\assignment-01\\01.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49681CBD-289D-4C65-A45B-95BD65A8CF05}|Assignment-01\\Assignment-01.csproj|solutionrelative:assignment-01\\01.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49681CBD-289D-4C65-A45B-95BD65A8CF05}|Assignment-01\\Assignment-01.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\assignment-01\\playingwithconsoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49681CBD-289D-4C65-A45B-95BD65A8CF05}|Assignment-01\\Assignment-01.csproj|solutionrelative:assignment-01\\playingwithconsoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\longestseq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\longestseq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\freqnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\freqnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\copyinganarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\copyinganarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\palindromes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\palindromes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\reversewordinseq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\reversewordinseq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment4\\assignment-01-02\\arraysandstrings\\rotatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89323FB4-65D2-48E8-B450-2AE3C7186F07}|ArraysAndStrings\\ArraysAndStrings.csproj|solutionrelative:arraysandstrings\\rotatearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParseURL.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\ParseURL.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\ParseURL.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\ParseURL.cs",
+              "RelativeToolTip": "ArraysAndStrings\\ParseURL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:23:56.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Palindromes.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\Palindromes.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\Palindromes.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\Palindromes.cs",
+              "RelativeToolTip": "ArraysAndStrings\\Palindromes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:51.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReverseWordInSeq.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\ReverseWordInSeq.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\ReverseWordInSeq.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\ReverseWordInSeq.cs",
+              "RelativeToolTip": "ArraysAndStrings\\ReverseWordInSeq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:21:42.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReverseString.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\ReverseString.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\ReverseString.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\ReverseString.cs",
+              "RelativeToolTip": "ArraysAndStrings\\ReverseString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:20:41.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FreqNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\FreqNumber.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\FreqNumber.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\FreqNumber.cs",
+              "RelativeToolTip": "ArraysAndStrings\\FreqNumber.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:19:25.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LongestSeq.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\LongestSeq.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\LongestSeq.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\LongestSeq.cs",
+              "RelativeToolTip": "ArraysAndStrings\\LongestSeq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:18:12.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RotateArray.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\RotateArray.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\RotateArray.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\RotateArray.cs",
+              "RelativeToolTip": "ArraysAndStrings\\RotateArray.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:17:16.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrimeNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\PrimeNumber.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\PrimeNumber.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\PrimeNumber.cs",
+              "RelativeToolTip": "ArraysAndStrings\\PrimeNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:15:51.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CopyingAnArray.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\CopyingAnArray.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\CopyingAnArray.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\CopyingAnArray.cs",
+              "RelativeToolTip": "ArraysAndStrings\\CopyingAnArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:13:00.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\Program.cs",
+              "RelativeToolTip": "ArraysAndStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:11:41.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\CustomList.cs",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\CustomList.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\CustomList.cs",
+              "RelativeToolTip": "ArraysAndStrings\\CustomList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:11:40.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\02.txt",
+              "RelativeDocumentMoniker": "ArraysAndStrings\\02.txt",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\ArraysAndStrings\\02.txt",
+              "RelativeToolTip": "ArraysAndStrings\\02.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-09T14:11:16.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "01.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\Assignment-01\\01.txt",
+              "RelativeDocumentMoniker": "Assignment-01\\01.txt",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\Assignment-01\\01.txt",
+              "RelativeToolTip": "Assignment-01\\01.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-09T14:11:12.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayingWithConsoleApp.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\Assignment-01\\PlayingWithConsoleApp.cs",
+              "RelativeDocumentMoniker": "Assignment-01\\PlayingWithConsoleApp.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\Assignment-01\\PlayingWithConsoleApp.cs",
+              "RelativeToolTip": "Assignment-01\\PlayingWithConsoleApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:11:08.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\02UnderstandingTypes\\Program.cs",
+              "RelativeDocumentMoniker": "02UnderstandingTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment4\\Assignment-01-02\\02UnderstandingTypes\\Program.cs",
+              "RelativeToolTip": "02UnderstandingTypes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:11:09.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

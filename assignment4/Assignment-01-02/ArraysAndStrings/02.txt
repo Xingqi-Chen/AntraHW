@@ -1,0 +1,7 @@
+﻿1. When the string would not be modified, I should use String, if the string may be modified, I need to use StringBuilder
+2. System.Array
+3. Array.Sort()
+4. .Length
+5. Yes. object[] array = new object[10];
+6. CopyTo: copy elements from one array to another, Clone: create a new array object that is a shallow copy of the original array
+

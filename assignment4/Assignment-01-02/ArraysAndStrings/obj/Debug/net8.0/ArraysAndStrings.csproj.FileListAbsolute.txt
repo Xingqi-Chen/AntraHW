@@ -1,0 +1,15 @@
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.exe
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.deps.json
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.runtimeconfig.json
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.dll
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\bin\Debug\net8.0\ArraysAndStrings.pdb
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.AssemblyInfoInputs.cache
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.AssemblyInfo.cs
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.sourcelink.json
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.dll
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\refint\ArraysAndStrings.dll
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.pdb
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\ArraysAndStrings.genruntimeconfig.cache
+C:\Users\Brandon\Workspace\AntraHW\assignment4\Assignment-01\ArraysAndStrings\obj\Debug\net8.0\ref\ArraysAndStrings.dll

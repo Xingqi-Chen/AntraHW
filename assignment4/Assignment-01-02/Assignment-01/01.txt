@@ -1,0 +1,40 @@
+﻿1. string
+   float
+   int
+   enum
+   decimal
+   string
+   decimal
+   float
+   uint
+   ulong
+   uint
+
+2. 
+(1) Value type will directly hold the value while the reference type will hold the memory address or reference for this value.
+(2) Value types are stored in the stack memory and reference types are stored in the heap memory.
+(3) Value types will not be collected by garbage collector but reference types will be collected by the grabage collector.
+(4) The value types can be created by struct, enum while reference type can be created by class, interface, delegate or array.
+(5) Value type can not accept any null values while reference types can accept null values.
+
+Boxing: converts value type to reference type
+Unboxing: converts reference type to value type
+
+3. managed resource: the resources that are handled by CLR and garbage collector.
+   unmanaged resource: external resources that are not managed by CLR and garbage collector, need to call Dispose() method from IDisposable interface
+
+4. automatic memory management, helps reduce the risk of memory leaks and simplify memory management tasks
+
+Controlling Flow and Converting Types:
+1. throws exception: System.DivideByZeroException:“Attempted to divide by zero.”
+2. get result: Infinity
+3. it will result in a value wrapping around
+4. x=y++: x is assigned the value before y increase by 1; x=++y: x is assigned the value after y increase by 1;
+5. break: it will terminate the loop and execute the statement following the loop; continue: it will skip the current iteration of the loop; return: exit the loop and function/method;
+6. initialization, condition and iteration expression. All are optional, but must provide at least one
+7. = is used for assign value; == is used for compare if two values are equal
+8. Yes, it will run forever
+9. discard pattern, similar to default in java
+10. IEnemerable or IEnumerable<T> interface must be implemented
+
+It will loop forever. Added code: // The loop condition compares a byte with an int, potential loss of precision.
