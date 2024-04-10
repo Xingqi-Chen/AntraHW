@@ -1,0 +1,77 @@
+﻿1. 
+public: makes the member accessible from any other code.
+private: limits the member's accessibility to within its containing type.
+protected: allows access from the containing type and its derived types.
+internal: accessible within the same assembly.
+protected internal: accessible within the same assembly or by derived types.
+private protected: accessible within the same assembly by derived types.
+
+2. 
+static: indicates that the member belongs to the type itself rather than to instances of the type.
+const: defines a constant value that cannot be changed.
+readonly: specifies that the member can only be assigned a value at initialization or within the constructor and cannot be modified thereafter.
+
+3.
+1. Constructor is a special type of method which shares the same name of the class and does not have any return type; not even void
+2. It is used to create an object of the class and initalize the class memebers. 
+
+4.
+partial allows to split the definition of a class, struct, or interface across multiple source files.
+
+5.
+Tuple allows to store a fixed-size sequence of elements of varying types.
+
+6.
+record is used to define immutable data types with value-based equality semantics.
+
+7.
+overriding: happens between the base class and derived class, we have the same method signature including access modifier, method name,input/output parameters; derived classes can provide different implementation for the same method
+overloading: multiple methods in the same class, same access modifier, same method name but differnt inuput/output parameters
+
+8.
+fields directly store data within a class and provide no inherent mechanism for encapsulation, properties act as wrappers around fields, allowing controlled access to the data and enabling encapsulation, validation, and computation logic.
+
+9.
+Object? Obj;
+
+10.
+interface defines a contract without providing any implementation, allowing for multiple inheritance and promoting loose coupling between components. abstract class provides a partial implementation along with the ability to define constructors and fields, serving as a template for other classes to derive from while enforcing a single inheritance relationship.
+
+11.
+public
+
+12.
+True
+
+13.
+True
+
+14.
+False
+
+15.
+False
+
+16.
+True
+
+17.
+True
+
+18.
+True
+
+19.
+False
+
+20.
+False
+
+21.
+True
+
+22.
+False
+
+23.
+True
