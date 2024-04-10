@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment6\\assignment6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|solutionrelative:assignment6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment6\\assignment6\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|solutionrelative:assignment6\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment6\\assignment6\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|solutionrelative:assignment6\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment6\\assignment6\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|solutionrelative:assignment6\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|c:\\users\\brandon\\workspace\\antrahw\\assignment6\\assignment6\\generics.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{91888293-6B87-48F8-820D-768B3854EEE4}|assignment6\\assignment6.csproj|solutionrelative:assignment6\\generics.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Generics.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\Generics.txt",
+              "RelativeDocumentMoniker": "assignment6\\Generics.txt",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\Generics.txt",
+              "RelativeToolTip": "assignment6\\Generics.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-10T23:12:47.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "assignment6\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\GenericRepository.cs",
+              "RelativeToolTip": "assignment6\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:00:09.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\MyList.cs",
+              "RelativeDocumentMoniker": "assignment6\\MyList.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\MyList.cs",
+              "RelativeToolTip": "assignment6\\MyList.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:54:39.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\MyStack.cs",
+              "RelativeDocumentMoniker": "assignment6\\MyStack.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\MyStack.cs",
+              "RelativeToolTip": "assignment6\\MyStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:51:06.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\Program.cs",
+              "RelativeDocumentMoniker": "assignment6\\Program.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Workspace\\AntraHW\\assignment6\\assignment6\\Program.cs",
+              "RelativeToolTip": "assignment6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:50:31.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

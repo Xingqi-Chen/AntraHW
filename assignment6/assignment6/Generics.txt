@@ -1,0 +1,10 @@
+﻿1. Allows us to design classes or methods but defer the specification of types until the class or method is declared 
+2. List<string> lists = new List<string>();
+3. Two, TKey and TValue
+4. False
+5. Add()
+6. Remove(T), RemoveAt(int)
+7. There is <T> besides the class name.
+8. False
+9. True
+10. True
